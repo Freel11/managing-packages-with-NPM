@@ -17,5 +17,6 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"keywords": ["freecodecamp", "is", "awesome"],
-	"license": "MIT"
+	"license": "MIT",
+	"version": "1.0.0"
 }
