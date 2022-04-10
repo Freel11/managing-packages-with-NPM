@@ -18,5 +18,9 @@
 	},
 	"keywords": ["freecodecamp", "is", "awesome"],
 	"license": "MIT",
-	"version": "1.0.0"
+	"version": "1.0.0",
+	"dependencies": {
+		"package-name": "moment",
+		"version": "2.14.0"
+	}
 }
